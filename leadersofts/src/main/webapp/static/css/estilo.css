@@ -1,0 +1,130 @@
+﻿.slideshow { height: 232px; width: 232px; margin: auto }
+.slideshow img { padding: 15px; border: 1px solid #ccc; background-color: #eee; }
+
+.font-blue h5{
+	color: #3299CC;
+}
+
+.marcador{
+	background: #fe9d9d;
+	border: 1px solid #f94646;
+}
+
+.marcador2{
+	background: #5bf946;
+	border: 1px solid #36ae26;
+}
+
+#navegacao{
+	background: #ff0000
+	border: 1px solid #f0f0f0;
+}
+
+#menu{
+	border: 1px solid gray;
+	background-color: #D3D3D3;
+}
+
+#menu2{
+	border: 1px solid gray;
+	background-color: ##E6E6FA;
+}
+
+#rodape h4{
+	color: #919496;
+	text-transform: uppercase;
+}
+
+.LemonChiffon3{
+	padding: 10px;
+	background: #CDC9A5;
+	border: 0px solid gray;
+}
+.BgGray{
+	background: #D3D3D3;
+	border: 0px solid gray;
+}
+
+.fonth3Info{
+	color: white;
+}
+
+.BgPeachPuff{
+	background: ##FFDAB9;
+	border: 0px solid gray;
+}
+
+.BgDarkSlateGray{
+	background: #2F4F4F;
+	border: 0px solid gray;
+}
+
+a:hover { 
+    background-color: #4682B4;
+}
+
+#absoluta{
+	background: #CDC9A5;
+	position: relative;
+	bottom: 0;
+	right: 30px;
+}
+
+.conteudo-info{
+	color: white;
+	background: #CDC9A5;
+	border: 0px solid gray;
+}
+
+.transparent_bar{
+	background-color: transparent;	
+}
+
+
+/*------------------------------*/
+/*Rodapé */
+footer{
+	background: #000;
+	padding: 50px 0px 20px 0px;
+	position: relative; /*Fica por cima de qualquer imagem*/
+	width = 100%;
+}
+
+.img-logo {
+	height: 40px;
+	width: 132px;
+	display: block;
+	/* background: url('imagens/spotify.svg') no-repeat; */
+	background: url('images/Leadersofts.svg') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+.item-rede-social{
+	float: right;
+}
+
+.item-img_central{
+	float: right;	
+}
+
+#leader_headerproperties{    /*ID lleader_headerproperties*/
+	width 	   : 100%;     
+     	position   : relative; 
+	float 	   : left;     
+	padding    : left; 
+	background : #313D4C;
+	
+}
+
+ .top-bar {  			/*Class top-bar */
+     position: relative;
+     width: 100%;
+     height: 60px;
+     background: #313D4C;
+     margin: 0;
+ }
+
+
+
+

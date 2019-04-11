@@ -1,0 +1,4 @@
+Neste projeto foi utilizados:
+
+IDE [Eclipse Kepler para Java EE]
+Angular,Hibernate,Node.js,Spring MVC, Jax-rs, servlets com JSP.
